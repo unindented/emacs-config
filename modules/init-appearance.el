@@ -49,8 +49,8 @@
            :default-height 200)
           (t
            :default-height 165
-           :default-family "Cascadia Code"
-           :fixed-pitch-family "Cascadia Code"
+           :default-family "Cascadia Mono NF"
+           :fixed-pitch-family "Cascadia Mono NF"
            :variable-pitch-family "SF Pro"))))
 
 
